@@ -27,6 +27,6 @@ Yes, jQuery.konami is written in coffeescript. So you need to install [node](htt
 To run the test
 ---------------
   
-jQuery.konami uses [Jasmine](http://pivotal.github.com/jasmine/) for testing. Open up SpecRunner.html to run test. The test are also written in coffeescript, so you'll have to run _cake build_ to compile the test too.
+jQuery.konami uses [Jasmine](http://pivotal.github.com/jasmine/) for testing. Open up SpecRunner.html to run test. The test is also written in coffeescript, so you'll have to run _cake build_ to compile the test too.
 
 
