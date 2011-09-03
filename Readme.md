@@ -8,21 +8,21 @@ Installation
 
 Simply copy and embed jquery.konami.js into your project.
 
-  <script type="text/javascript" src="src/jquery.konami.js"></script>
+    <script type="text/javascript" src="src/jquery.konami.js"></script>
   
 Usage
 -----
 
 Simply attach the plugin to a element with a callback.
 
- $(window).konami(function(){ alert('Unicorn attack!')});
+    $(window).konami(function(){ alert('Unicorn attack!')});
   
 To build
 --------
 
 Yes, jQuery.konami is written in coffeescript. So you need to install [node](https://github.com/joyent/node), [npm](http://npmjs.org/), and [coffeescript](http://jashkenas.github.com/coffee-script/) to build. Then simply run the cake command.
 
-  cake build
+    cake build
   
 To run the tests
 ----------------
