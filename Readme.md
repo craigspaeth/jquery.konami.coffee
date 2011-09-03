@@ -17,6 +17,13 @@ Simply copy and embed jquery.konami.js into your project.
 
   <script type="text/javascript" src="src/jquery.konami.js"></script>
   
+Usage
+-----
+
+Simply attach the plugin to a element with a callback.
+
+ $(window).konami(function(){ alert('Unicorn attack!')});
+  
 To build
 --------
 
