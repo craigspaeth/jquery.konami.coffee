@@ -1,5 +1,5 @@
-jQuery.konami
-=============
+jquery.konami.coffee
+====================
 
 A jQuery plugin to listen for a user entering the konami code.
 
